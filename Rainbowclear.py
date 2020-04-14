@@ -84,4 +84,4 @@ async def laden(ctx):
         print(e)
 
 
-client.run("Njk5NTUxMTcyMDQ1OTYzMzA0.XpWCjg.1QyexQ2JPNTii_mGC_zVEZOpx-I")
+client.run("Njk5NTUxMTcyMDQ1OTYzMzA0.XpXOog.P35Po03GkEHSn4okG7gzLyD2hww")
